@@ -2,11 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, run the Next-chat-app-Server:
 
 ```bash
-npm run dev
+npm run build
 # or
+npm run dev
+
+# ------------------
 yarn dev
 # or
 pnpm dev
